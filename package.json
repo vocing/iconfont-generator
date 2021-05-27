@@ -1,0 +1,11 @@
+{
+  "name": "iconfont-generator",
+  "author": "pengzijing",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "dependencies": {
+    "watch": "^1.0.2",
+    "webpack-iconfont-plugin-nodejs": "^1.0.16"
+  }
+}
